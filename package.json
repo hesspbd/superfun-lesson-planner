@@ -1,0 +1,13 @@
+
+{
+  "name": "superfun-lesson-planner",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "echo Simulating build"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
